@@ -1,4 +1,6 @@
 # Welcome to Curiefense
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjdorfman%2Fcuriefense.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjdorfman%2Fcuriefense?ref=badge_shield)
+
 Curiefense is a new application security platform, which protects sites, services, and APIs. It extends Envoy proxy to defend against a variety of threats, including SQL and command injection, cross site scripting (XSS), account takeovers (ATOs), application-layer DDoS, remote file inclusion (RFI), API abuse, and more.
 
 Curiefense extends Envoy proxy to protect all forms of web traffi. It inspects every request and analyzes it according to its security policies. Some of these are inherent, some are customized by the user, some are received from external threat feeds, and some are automatically generated and adapted as the threat environment evolves.
@@ -13,3 +15,7 @@ But this is just the beginning. We already have an extensive roadmap for additio
 #### Full documentation is available at [docs.curiefense.io](https://docs.curiefense.io)
 #### Join our [Mailing List](https://groups.google.com/a/curiefense.io/g/community)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjdorfman%2Fcuriefense.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjdorfman%2Fcuriefense?ref=badge_large)
